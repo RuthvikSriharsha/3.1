@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "652ef75978b89f4c9f28abda"
+  },
+  "Team_Name": "CSK",
+  "colorofjersey": "yellow",
+  "matches_won": 3,
+  "trophy_won": 4,
+  "runner_in": 3,
+  "scoretableposition": 1
+},
+{
+  "_id": {
+    "$oid": "652ef75978b89f4c9f28abdb"
+  },
+  "Team_Name": "MI",
+  "colorofjersey": "Blue",
+  "matches_won": 5,
+  "trophy_won": 3,
+  "runner_in": 3,
+  "scoretableposition": 2
+},
+{
+  "_id": {
+    "$oid": "652ef75978b89f4c9f28abdc"
+  },
+  "Team_Name": "RCB",
+  "colorofjersey": "Red",
+  "matches_won": 4,
+  "trophy_won": 0,
+  "runner_in": 0,
+  "scoretableposition": 4
+},
+{
+  "_id": {
+    "$oid": "652ef75978b89f4c9f28abdd"
+  },
+  "Team_Name": "KKR",
+  "colorofjersey": "purple",
+  "matches_won": 2,
+  "trophy_won": 1,
+  "runner_in": 2,
+  "scoretableposition": 5
+},
+{
+  "_id": {
+    "$oid": "652ef75978b89f4c9f28abde"
+  },
+  "Team_Name": "DD",
+  "colorofjersey": "Blue",
+  "matches_won": 3,
+  "trophy_won": 2,
+  "runner_in": 2,
+  "scoretableposition": 3
+}]
